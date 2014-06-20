@@ -43,6 +43,7 @@
 			</Item>
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="Stanford Research DG645.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Stanford Research DG645/Stanford Research DG645.lvlib"/>
+				<Item Name="Unit Enum.ctl" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Unit Enum.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>

@@ -23,7 +23,7 @@
 		<Item Name="Configure" Type="Folder">
 			<Item Name="Configure.mnu" Type="Document" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Configure.mnu"/>
 			<Item Name="Configure Standard Outputs.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Configure Standard Outputs.vi"/>
-			<Item Name="Configure Step.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Configure Step.vi"/>
+			<Item Name="Configure Component Values.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Configure Component Values.vi"/>
 		</Item>
 		<Item Name="Data" Type="Folder">
 			<Item Name="Data.mnu" Type="Document" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Data/Data.mnu"/>
@@ -41,6 +41,7 @@
 		<Item Name="VI Tree.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/VI Tree.vi"/>
 	</Item>
 	<Item Name="Testing" Type="Folder">
+		<Item Name="Display Settings.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Testing/Display Settings.vi"/>
 		<Item Name="Setup Test.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Testing/Setup Test.vi"/>
 		<Item Name="Test ACtions.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Testing/Test ACtions.vi"/>
 		<Item Name="Test Configuration.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Testing/Test Configuration.vi"/>
