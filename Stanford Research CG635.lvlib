@@ -37,5 +37,8 @@
 		<Item Name="Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Initialize.vi"/>
 		<Item Name="VI Tree.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/VI Tree.vi"/>
 	</Item>
+	<Item Name="Testing" Type="Folder">
+		<Item Name="Setup Test.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Testing/Setup Test.vi"/>
+	</Item>
 	<Item Name="Stanford Research CG635 Readme.html" Type="Document" URL="/&lt;instrlib&gt;/Stanford Research CG635/Stanford Research CG635 Readme.html"/>
 </Library>
