@@ -42,9 +42,6 @@
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
 			</Item>
 			<Item Name="instr.lib" Type="Folder">
-				<Item Name="Error Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Standford Research DG645/Public/Utility/Error Query.vi"/>
-				<Item Name="Reset.vi" Type="VI" URL="/&lt;instrlib&gt;/Standford Research DG645/Public/Utility/Reset.vi"/>
-				<Item Name="Close.vi" Type="VI" URL="/&lt;instrlib&gt;/Standford Research DG645/Public/Close.vi"/>
 				<Item Name="Stanford Research DG645.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Stanford Research DG645/Stanford Research DG645.lvlib"/>
 			</Item>
 		</Item>

@@ -18,9 +18,12 @@
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Action-Status" Type="Folder">
 			<Item Name="Action-Status.mnu" Type="Document" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Action-Status/Action-Status.mnu"/>
+			<Item Name="Wait.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Action-Status/Wait.vi"/>
 		</Item>
 		<Item Name="Configure" Type="Folder">
 			<Item Name="Configure.mnu" Type="Document" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Configure.mnu"/>
+			<Item Name="Configure Standard Outputs.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Configure Standard Outputs.vi"/>
+			<Item Name="Configure Step.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Configure Step.vi"/>
 		</Item>
 		<Item Name="Data" Type="Folder">
 			<Item Name="Data.mnu" Type="Document" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Data/Data.mnu"/>
@@ -39,6 +42,8 @@
 	</Item>
 	<Item Name="Testing" Type="Folder">
 		<Item Name="Setup Test.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Testing/Setup Test.vi"/>
+		<Item Name="Test ACtions.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Testing/Test ACtions.vi"/>
+		<Item Name="Test Configuration.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Testing/Test Configuration.vi"/>
 	</Item>
 	<Item Name="Stanford Research CG635 Readme.html" Type="Document" URL="/&lt;instrlib&gt;/Stanford Research CG635/Stanford Research CG635 Readme.html"/>
 </Library>
