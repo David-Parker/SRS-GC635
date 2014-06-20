@@ -43,7 +43,6 @@
 			</Item>
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="Unit Enum.ctl" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Unit Enum.ctl"/>
-				<Item Name="Configure CMOS.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Configure CMOS.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>

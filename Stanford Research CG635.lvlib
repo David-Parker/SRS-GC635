@@ -9,7 +9,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Examples" Type="Folder">
-		<Item Name="Stanford Research CG635 Time Capture.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Stanford Research CG635 Time Capture.vi"/>
+		<Item Name="Stanford Research CG635 Time Capture.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Examples/Stanford Research CG635 Time Capture.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -22,6 +22,7 @@
 		<Item Name="Action-Status" Type="Folder">
 			<Item Name="Action-Status.mnu" Type="Document" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Action-Status/Action-Status.mnu"/>
 			<Item Name="Wait.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Action-Status/Wait.vi"/>
+			<Item Name="Step Up or Down.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Action-Status/Step Up or Down.vi"/>
 		</Item>
 		<Item Name="Configure" Type="Folder">
 			<Item Name="Low-level" Type="Folder">
