@@ -27,6 +27,7 @@
 		<Item Name="Configure" Type="Folder">
 			<Item Name="Low-level" Type="Folder">
 				<Item Name="Configure CMOS.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Low-level/Configure CMOS.vi"/>
+				<Item Name="Configure QQ.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Low-level/Configure QQ.vi"/>
 			</Item>
 			<Item Name="Configure.mnu" Type="Document" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Configure.mnu"/>
 			<Item Name="Configure Standard Outputs.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Configure Standard Outputs.vi"/>
@@ -42,6 +43,7 @@
 			<Item Name="Reset.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Utility/Reset.vi"/>
 			<Item Name="Revision Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Utility/Revision Query.vi"/>
 			<Item Name="Self-Test.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Utility/Self-Test.vi"/>
+			<Item Name="Save-Recall Instrument Settings.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Utility/Save-Recall Instrument Settings.vi"/>
 		</Item>
 		<Item Name="dir.mnu" Type="Document" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/dir.mnu"/>
 		<Item Name="Close.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Close.vi"/>
