@@ -6,6 +6,9 @@
 		<Property Name="CCSymbols" Type="Str">OS,Win;CPU,x86;</Property>
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Examples" Type="Folder">
+			<Item Name="Stanford Research CG635 Time Capture.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Examples/Stanford Research CG635 Time Capture.vi"/>
+		</Item>
 		<Item Name="Stanford Research CG635.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Stanford Research CG635/Stanford Research CG635.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
