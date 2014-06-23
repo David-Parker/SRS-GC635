@@ -44,9 +44,6 @@
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
 			</Item>
-			<Item Name="instr.lib" Type="Folder">
-				<Item Name="Unit Enum.ctl" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Unit Enum.ctl"/>
-			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

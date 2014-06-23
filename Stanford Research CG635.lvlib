@@ -26,6 +26,7 @@
 			<Item Name="Configure Standard Outputs.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Configure Standard Outputs.vi"/>
 			<Item Name="Configure Component Values.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Configure Component Values.vi"/>
 			<Item Name="Configure Run and Stop States.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Configure Run and Stop States.vi"/>
+			<Item Name="Enable PRBS.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Enable PRBS.vi"/>
 		</Item>
 		<Item Name="Data" Type="Folder">
 			<Item Name="Data.mnu" Type="Document" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Data/Data.mnu"/>
