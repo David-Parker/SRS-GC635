@@ -1,50 +1,51 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="13008000">
-	<Property Name="Instrument Driver" Type="Str">True</Property>
-	<Property Name="NI.Project.Description" Type="Str">This project is used by developers to edit API and example files for LabVIEW Plug and Play instrument drivers.</Property>
-	<Item Name="My Computer" Type="My Computer">
-		<Property Name="CCSymbols" Type="Str">OS,Win;CPU,x86;</Property>
-		<Property Name="NI.SortType" Type="Int">3</Property>
-		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Examples" Type="Folder">
-			<Item Name="Setup High Frequency Clock Generation.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Examples/Setup High Frequency Clock Generation.vi"/>
-		</Item>
-		<Item Name="Stanford Research CG635.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Stanford Research CG635/Stanford Research CG635.lvlib"/>
-		<Item Name="Dependencies" Type="Dependencies">
-			<Item Name="vi.lib" Type="Folder">
-				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
-				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
-				<Item Name="DialogType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogType.ctl"/>
-				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
-				<Item Name="DialogTypeEnum.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogTypeEnum.ctl"/>
-				<Item Name="General Error Handler CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler CORE.vi"/>
-				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
-				<Item Name="Check Special Tags.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Check Special Tags.vi"/>
-				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
-				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
-				<Item Name="GetRTHostConnectedProp.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetRTHostConnectedProp.vi"/>
-				<Item Name="Error Code Database.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Code Database.vi"/>
-				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
-				<Item Name="Format Message String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Format Message String.vi"/>
-				<Item Name="Find Tag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find Tag.vi"/>
-				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
-				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
-				<Item Name="Details Display Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Details Display Dialog.vi"/>
-				<Item Name="ErrWarn.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/ErrWarn.ctl"/>
-				<Item Name="eventvkey.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/eventvkey.ctl"/>
-				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
-				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
-				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>
-				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
-				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
-				<Item Name="Convert property node font to graphics font.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Convert property node font to graphics font.vi"/>
-				<Item Name="Get Text Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Get Text Rect.vi"/>
-				<Item Name="Get String Text Bounds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Get String Text Bounds.vi"/>
-				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
-				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
-				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
-			</Item>
-		</Item>
-		<Item Name="Build Specifications" Type="Build"/>
-	</Item>
+<?xml version='1.0'?>
+<Project Type="Project" LVVersion="8208000">
+   <Property Name="Instrument Driver" Type="Str">True</Property>
+   <Property Name="NI.Project.Description" Type="Str">This project is used by developers to edit API and example files for LabVIEW Plug and Play instrument drivers.</Property>
+   <Item Name="My Computer" Type="My Computer">
+      <Property Name="CCSymbols" Type="Str">OS,Win;CPU,x86;</Property>
+      <Property Name="specify.custom.address" Type="Bool">false</Property>
+      <Item Name="Examples" Type="Folder">
+         <Item Name="Setup High Frequency Clock Generation.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Examples/Setup High Frequency Clock Generation.vi"/>
+         <Item Name="Stanford Research CG635.bin3" Type="Document" URL="/&lt;instrlib&gt;/Stanford Research CG635/Examples/Stanford Research CG635.bin3"/>
+      </Item>
+      <Item Name="Stanford Research CG635.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Stanford Research CG635/Stanford Research CG635.lvlib">
+         <Item Name="Public" Type="Folder">
+            <Item Name="Action-Status" Type="Folder">
+               <Item Name="Action-Status.mnu" Type="Document" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Action-Status/Action-Status.mnu"/>
+               <Item Name="Step Up or Down.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Action-Status/Step Up or Down.vi"/>
+               <Item Name="Wait.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Action-Status/Wait.vi"/>
+            </Item>
+            <Item Name="Configure" Type="Folder">
+               <Item Name="Low-level" Type="Folder">
+                  <Item Name="Configure CMOS.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Low-level/Configure CMOS.vi"/>
+                  <Item Name="Configure QQ.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Low-level/Configure QQ.vi"/>
+               </Item>
+               <Item Name="Configure.mnu" Type="Document" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Configure.mnu"/>
+               <Item Name="Configure Component Values.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Configure Component Values.vi"/>
+               <Item Name="Configure Run and Stop States.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Configure Run and Stop States.vi"/>
+               <Item Name="Configure Standard Outputs.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Configure Standard Outputs.vi"/>
+               <Item Name="Enable PRBS.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Enable PRBS.vi"/>
+            </Item>
+            <Item Name="Utility" Type="Folder">
+               <Item Name="Utility.mnu" Type="Document" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Utility/Utility.mnu"/>
+               <Item Name="Error Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Utility/Error Query.vi"/>
+               <Item Name="Reset.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Utility/Reset.vi"/>
+               <Item Name="Revision Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Utility/Revision Query.vi"/>
+               <Item Name="Save-Recall Instrument Settings.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Utility/Save-Recall Instrument Settings.vi"/>
+               <Item Name="Self-Test.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Utility/Self-Test.vi"/>
+            </Item>
+            <Item Name="dir.mnu" Type="Document" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/dir.mnu"/>
+            <Item Name="Close.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Close.vi"/>
+            <Item Name="Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Initialize.vi"/>
+            <Item Name="VI Tree.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/VI Tree.vi"/>
+         </Item>
+         <Item Name="Private" Type="Folder">
+            <Item Name="Default Instrument Setup.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Private/Default Instrument Setup.vi"/>
+         </Item>
+         <Item Name="Stanford Research CG635 Readme.html" Type="Document" URL="/&lt;instrlib&gt;/Stanford Research CG635/Stanford Research CG635 Readme.html"/>
+      </Item>
+      <Item Name="Dependencies" Type="Dependencies"/>
+      <Item Name="Build Specifications" Type="Build"/>
+   </Item>
 </Project>
