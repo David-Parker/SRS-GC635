@@ -18,6 +18,7 @@
             </Item>
             <Item Name="Configure" Type="Folder">
                <Item Name="Low-level" Type="Folder">
+                  <Item Name="Configure_Low Level.mnu" Type="Document" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Low-level/Configure_Low Level.mnu"/>
                   <Item Name="Configure CMOS.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Low-level/Configure CMOS.vi"/>
                   <Item Name="Configure QQ.vi" Type="VI" URL="/&lt;instrlib&gt;/Stanford Research CG635/Public/Configure/Low-level/Configure QQ.vi"/>
                </Item>
